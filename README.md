@@ -1,4 +1,4 @@
-💰 AI-Powered Pricing Optimization Model
+💰 AI-Powered Pricing Optimization and Demand Elasticity Model
 
 ### Step 1. 📌 Project Overview
 
